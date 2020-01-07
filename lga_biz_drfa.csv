@@ -1,4 +1,4 @@
-LGA,lga_code,Small businesses (1-19 employees),Number of businesses with employees,Number of businesses with no employees,Top employing industries (1st) name,Top employing industries (2nd) name,Top employing industries (3rd) name,Category A,Category B,Category C,Category D,AGDRP,DRA,Highest DRFA category
+LGA,lga_code,Number of small businesses (1-19 employees),Number of businesses with employees,Number of businesses with no employees,Top employing industries (1st) name,Top employing industries (2nd) name,Top employing industries (3rd) name,Category A,Category B,Category C,Category D,AGDRP,DRA,Highest DRFA category
 Armidale Regional (A),10130,1098,1144,1800,Education and Training,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
 Ballina (A),10250,1651,1729,2713,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,YES,NO,NO,YES,C
 Bega Valley (A),10550,1341,1380,1664,Health Care and Social Assistance,Retail Trade,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
