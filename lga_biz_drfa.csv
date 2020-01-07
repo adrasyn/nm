@@ -46,7 +46,6 @@ Walcha (A),17850,241,244,373,"Agriculture, Forestry and Fishing",Health Care and
 Wingecarribee (A),18350,2123,2201,3394,Health Care and Social Assistance,Construction,Retail Trade,YES,YES,YES,NO,YES,YES,C
 Wollondilly (A),18400,2158,2205,2300,Construction,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
 East Gippsland (S),22110,1534,1609,2807,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,NO,NO,YES,YES,B
-Kingston (C) (Vic.),23430,6212,6692,9972,Health Care and Social Assistance,Retail Trade,Education and Training,YES,NO,NO,NO,NO,NO,A
 Towong (S),26670,262,268,642,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Construction,YES,YES,NO,NO,YES,YES,B
 Bundaberg (R),31820,2481,2673,3795,Health Care and Social Assistance,Retail Trade,"Agriculture, Forestry and Fishing",YES,YES,NO,NO,NO,YES,B
 Gladstone (R),33360,1315,1401,2321,Manufacturing,Construction,Retail Trade,YES,YES,NO,NO,NO,NO,B
@@ -70,4 +69,3 @@ Mount Barker (DC),44550,937,937,1957,Health Care and Social Assistance,Retail Tr
 Playford (C),45680,1023,1023,2334,Health Care and Social Assistance,Retail Trade,Manufacturing,YES,NO,NO,NO,YES,YES,A
 Yorke Peninsula (DC),48830,514,514,793,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,NO,NO,NO,YES,YES,A
 Break O'Day (M),60210,203,203,319,Health Care and Social Assistance,Accommodation and Food Services,"Agriculture, Forestry and Fishing",YES,NO,NO,NO,NO,NO,A
-Central Coast (M) (Tas.),60810,565,565,857,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,YES,NO,YES,YES,C
