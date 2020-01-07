@@ -1,0 +1,73 @@
+LGA,lga_code,Small businesses (1-19 employees),Number of businesses with employees,Number of businesses with no employees,Top employing industries (1st) name,Top employing industries (2nd) name,Top employing industries (3rd) name,Category A,Category B,Category C,Category D,AGDRP,DRA,Highest DRFA category
+Armidale Regional (A),10130,1098,1144,1800,Education and Training,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Ballina (A),10250,1651,1729,2713,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,YES,NO,NO,YES,C
+Bega Valley (A),10550,1341,1380,1664,Health Care and Social Assistance,Retail Trade,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
+Bellingen (A),10600,409,421,757,Health Care and Social Assistance,Education and Training,Retail Trade,YES,YES,YES,NO,NO,YES,C
+Blue Mountains (C),10900,2182,2263,3293,Education and Training,Health Care and Social Assistance,Public Administration and Safety,YES,YES,YES,NO,YES,YES,C
+Byron (A),11350,1647,1735,2935,Health Care and Social Assistance,Accommodation and Food Services,Retail Trade,YES,YES,YES,NO,NO,YES,C
+Central Coast (C) (NSW),11650,10161,10621,12857,Health Care and Social Assistance,Construction,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Cessnock (C),11720,1217,1297,1615,Health Care and Social Assistance,Retail Trade,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
+Clarence Valley (A),11730,1336,1401,2466,Health Care and Social Assistance,Retail Trade,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
+Coffs Harbour (C),11800,2526,2667,3273,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,YES,YES,C
+Eurobodalla (A),12750,1222,1276,1640,Health Care and Social Assistance,Retail Trade,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
+Glen Innes Severn (A),13010,390,398,679,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Greater Hume Shire (A),13340,497,511,866,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Education and Training,YES,YES,NO,NO,NO,YES,B
+Gwydir (A),13660,257,261,486,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Education and Training,YES,YES,NO,NO,NO,YES,B
+Hawkesbury (C),13800,3181,3322,3637,Construction,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Inverell (A),14200,613,641,1088,Health Care and Social Assistance,"Agriculture, Forestry and Fishing",Retail Trade,YES,YES,YES,NO,NO,YES,C
+Kempsey (A),14350,764,806,1413,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,YES,YES,C
+Ku-ring-gai (A),14500,5172,5329,9296,"Professional, Scientific and Technical Services",Health Care and Social Assistance,Financial and Insurance Services,YES,YES,NO,NO,NO,YES,B
+Kyogle (A),14550,261,268,823,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Lake Macquarie (C),14650,5719,5961,7164,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,NO,NO,NO,YES,B
+Lismore (C),14850,1369,1435,2593,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,YES,NO,YES,YES,C
+Lithgow (C),14870,498,516,747,Health Care and Social Assistance,Retail Trade,Public Administration and Safety,YES,YES,YES,NO,YES,YES,C
+Mid-Coast (A),15240,2494,2600,4176,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,YES,YES,C
+Mid-Western Regional (A),15270,985,1023,1516,Mining,Retail Trade,Health Care and Social Assistance,YES,YES,YES,NO,YES,YES,C
+Muswellbrook (A),15650,389,417,601,Mining,Retail Trade,Health Care and Social Assistance,YES,YES,NO,NO,NO,YES,B
+Nambucca (A),15700,499,523,923,Health Care and Social Assistance,Construction,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Narrabri (A),15750,633,647,1125,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,YES,NO,NO,NO,YES,B
+Oberon (A),16100,186,191,470,"Agriculture, Forestry and Fishing",Manufacturing,Health Care and Social Assistance,YES,YES,NO,NO,NO,YES,B
+Penrith (C),16350,6208,6508,7734,Construction,Health Care and Social Assistance,Retail Trade,YES,YES,NO,NO,NO,YES,B
+Port Macquarie-Hastings (A),16380,2591,2692,3682,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,YES,YES,C
+Queanbeyan-Palerang Regional (A),16490,1786,1873,2778,Public Administration and Safety,Construction,Health Care and Social Assistance,YES,YES,YES,NO,YES,YES,C
+Richmond Valley (A),16610,490,512,1141,Manufacturing,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Shoalhaven (C),16950,3073,3218,3931,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,YES,YES,C
+Singleton (A),17000,733,782,1262,Mining,Health Care and Social Assistance,Accommodation and Food Services,YES,YES,YES,NO,YES,YES,C
+Snowy Monaro Regional (A),17040,1040,1081,1350,Accommodation and Food Services,"Agriculture, Forestry and Fishing",Retail Trade,YES,YES,YES,NO,NO,YES,C
+Snowy Valleys (A),17080,551,578,914,"Agriculture, Forestry and Fishing",Manufacturing,Health Care and Social Assistance,YES,YES,YES,NO,YES,YES,C
+Sutherland Shire (A),17150,9211,9558,12778,Health Care and Social Assistance,Construction,Education and Training,YES,YES,NO,NO,NO,YES,B
+Tamworth Regional (A),17310,2033,2136,3256,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,NO,NO,NO,YES,B
+Tenterfield (A),17400,277,281,681,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Tweed (A),17550,2626,2753,4665,Health Care and Social Assistance,Retail Trade,Construction,YES,YES,YES,NO,NO,YES,C
+Upper Hunter Shire (A),17620,561,588,1104,"Agriculture, Forestry and Fishing",Mining,Health Care and Social Assistance,YES,YES,NO,NO,NO,YES,B
+Upper Lachlan Shire (A),17640,446,457,691,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Public Administration and Safety,YES,YES,NO,NO,NO,YES,B
+Uralla (A),17650,236,243,415,"Agriculture, Forestry and Fishing",Education and Training,Health Care and Social Assistance,YES,YES,NO,NO,NO,YES,B
+Walcha (A),17850,241,244,373,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Education and Training,YES,YES,YES,NO,YES,YES,C
+Wingecarribee (A),18350,2123,2201,3394,Health Care and Social Assistance,Construction,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Wollondilly (A),18400,2158,2205,2300,Construction,Health Care and Social Assistance,Retail Trade,YES,YES,YES,NO,YES,YES,C
+East Gippsland (S),22110,1534,1609,2807,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,NO,NO,YES,YES,B
+Kingston (C) (Vic.),23430,6212,6692,9972,Health Care and Social Assistance,Retail Trade,Education and Training,YES,NO,NO,NO,NO,NO,A
+Towong (S),26670,262,268,642,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Construction,YES,YES,NO,NO,YES,YES,B
+Bundaberg (R),31820,2481,2673,3795,Health Care and Social Assistance,Retail Trade,"Agriculture, Forestry and Fishing",YES,YES,NO,NO,NO,YES,B
+Gladstone (R),33360,1315,1401,2321,Manufacturing,Construction,Retail Trade,YES,YES,NO,NO,NO,NO,B
+Gold Coast (C),33430,22624,24057,43467,Health Care and Social Assistance,Construction,Retail Trade,NO,YES,NO,NO,NO,YES,B
+Gympie (R),33620,1525,1594,2847,Health Care and Social Assistance,Retail Trade,Construction,NO,YES,NO,NO,NO,NO,B
+Ipswich (C),33960,3358,3557,5810,Health Care and Social Assistance,Retail Trade,Manufacturing,NO,YES,NO,NO,NO,NO,B
+Livingstone (S),34530,1107,1149,1763,Health Care and Social Assistance,Education and Training,Construction,YES,YES,NO,NO,YES,YES,B
+Lockyer Valley (R),34580,1014,1077,1991,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Education and Training,NO,YES,NO,NO,NO,YES,B
+Noosa (S),35740,2646,2646,4259,Health Care and Social Assistance,Accommodation and Food Services,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Scenic Rim (R),36510,1469,1469,2962,Construction,Health Care and Social Assistance,Education and Training,YES,YES,YES,NO,YES,YES,C
+Somerset (R),36580,603,603,1472,Manufacturing,Health Care and Social Assistance,Construction,YES,YES,NO,NO,YES,YES,B
+Southern Downs (R),36660,1383,1383,2759,"Agriculture, Forestry and Fishing",Retail Trade,Health Care and Social Assistance,YES,YES,YES,NO,YES,YES,C
+Sunshine Coast (R),36720,12193,12193,19503,Health Care and Social Assistance,Construction,Retail Trade,YES,YES,YES,NO,YES,YES,C
+Toowoomba (R),36910,5673,5673,10295,Health Care and Social Assistance,Education and Training,Retail Trade,YES,YES,NO,NO,YES,YES,B
+Adelaide Hills (DC),40120,1297,1297,2698,Health Care and Social Assistance,Education and Training,Construction,YES,NO,NO,NO,YES,YES,A
+Kangaroo Island (DC),42750,273,273,446,"Agriculture, Forestry and Fishing",Accommodation and Food Services,Retail Trade,YES,NO,NO,NO,YES,YES,A
+Kingston (DC) (SA),43360,138,138,178,"Agriculture, Forestry and Fishing",Retail Trade,Health Care and Social Assistance,YES,NO,NO,NO,NO,NO,A
+Lower Eyre Peninsula (DC),43710,243,243,372,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Construction,NO,NO,NO,NO,YES,NO,
+Mid Murray (DC),44210,287,287,457,"Agriculture, Forestry and Fishing",Retail Trade,Health Care and Social Assistance,YES,NO,NO,NO,NO,YES,A
+Mount Barker (DC),44550,937,937,1957,Health Care and Social Assistance,Retail Trade,Education and Training,YES,NO,NO,NO,YES,YES,A
+Playford (C),45680,1023,1023,2334,Health Care and Social Assistance,Retail Trade,Manufacturing,YES,NO,NO,NO,YES,YES,A
+Yorke Peninsula (DC),48830,514,514,793,"Agriculture, Forestry and Fishing",Health Care and Social Assistance,Retail Trade,YES,NO,NO,NO,YES,YES,A
+Break O'Day (M),60210,203,203,319,Health Care and Social Assistance,Accommodation and Food Services,"Agriculture, Forestry and Fishing",YES,NO,NO,NO,NO,NO,A
+Central Coast (M) (Tas.),60810,565,565,857,Health Care and Social Assistance,Retail Trade,Education and Training,YES,YES,YES,NO,YES,YES,C
