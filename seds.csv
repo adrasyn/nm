@@ -1,0 +1,451 @@
+state,sed_code_2018,sed_name_2018,incident_count
+New South Wales,10001,Albury,7
+New South Wales,10002,Auburn,NA
+New South Wales,10003,Ballina,1
+New South Wales,10004,Balmain,NA
+New South Wales,10005,Bankstown,NA
+New South Wales,10006,Barwon,3
+New South Wales,10007,Bathurst,8
+New South Wales,10008,Baulkham Hills,NA
+New South Wales,10009,Bega,11
+New South Wales,10010,Blacktown,NA
+New South Wales,10011,Blue Mountains,5
+New South Wales,10012,Cabramatta,NA
+New South Wales,10013,Camden,NA
+New South Wales,10014,Campbelltown,NA
+New South Wales,10015,Canterbury,NA
+New South Wales,10016,Castle Hill,NA
+New South Wales,10017,Cessnock,6
+New South Wales,10018,Charlestown,NA
+New South Wales,10019,Clarence,3
+New South Wales,10020,Coffs Harbour,NA
+New South Wales,10021,Coogee,NA
+New South Wales,10022,Cootamundra,1
+New South Wales,10023,Cronulla,NA
+New South Wales,10024,Davidson,NA
+New South Wales,10025,Drummoyne,NA
+New South Wales,10026,Dubbo,NA
+New South Wales,10027,East Hills,NA
+New South Wales,10028,Epping,NA
+New South Wales,10029,Fairfield,NA
+New South Wales,10030,Gosford,2
+New South Wales,10031,Goulburn,5
+New South Wales,10032,Granville,NA
+New South Wales,10033,Hawkesbury,4
+New South Wales,10034,Heathcote,NA
+New South Wales,10035,Heffron,NA
+New South Wales,10036,Holsworthy,1
+New South Wales,10037,Hornsby,NA
+New South Wales,10038,Keira,NA
+New South Wales,10039,Kiama,3
+New South Wales,10040,Kogarah,NA
+New South Wales,10041,Ku-ring-gai,NA
+New South Wales,10042,Lake Macquarie,2
+New South Wales,10043,Lakemba,NA
+New South Wales,10044,Lane Cove,NA
+New South Wales,10045,Lismore,6
+New South Wales,10046,Liverpool,NA
+New South Wales,10047,Londonderry,NA
+New South Wales,10048,Macquarie Fields,NA
+New South Wales,10049,Maitland,NA
+New South Wales,10050,Manly,NA
+New South Wales,10051,Maroubra,NA
+New South Wales,10052,Miranda,NA
+New South Wales,10053,Monaro,16
+New South Wales,10054,Mount Druitt,NA
+New South Wales,10055,Mulgoa,NA
+New South Wales,10056,Murray,NA
+New South Wales,10057,Myall Lakes,6
+New South Wales,10058,Newcastle,NA
+New South Wales,10059,Newtown,NA
+New South Wales,10060,North Shore,NA
+New South Wales,10061,Northern Tablelands,16
+New South Wales,10062,Oatley,NA
+New South Wales,10063,Orange,NA
+New South Wales,10064,Oxley,7
+New South Wales,10065,Parramatta,NA
+New South Wales,10066,Penrith,NA
+New South Wales,10067,Pittwater,NA
+New South Wales,10068,Port Macquarie,5
+New South Wales,10069,Port Stephens,NA
+New South Wales,10070,Prospect,NA
+New South Wales,10071,Riverstone,NA
+New South Wales,10072,Rockdale,NA
+New South Wales,10073,Ryde,NA
+New South Wales,10074,Seven Hills,NA
+New South Wales,10075,Shellharbour,NA
+New South Wales,10076,South Coast,5
+New South Wales,10077,Strathfield,NA
+New South Wales,10078,Summer Hill,NA
+New South Wales,10079,Swansea,1
+New South Wales,10080,Sydney,NA
+New South Wales,10081,Tamworth,16
+New South Wales,10082,Terrigal,NA
+New South Wales,10083,The Entrance,NA
+New South Wales,10084,Tweed,NA
+New South Wales,10085,Upper Hunter,12
+New South Wales,10086,Vaucluse,NA
+New South Wales,10087,Wagga Wagga,2
+New South Wales,10088,Wakehurst,NA
+New South Wales,10089,Wallsend,NA
+New South Wales,10090,Willoughby,NA
+New South Wales,10091,Wollondilly,3
+New South Wales,10092,Wollongong,NA
+New South Wales,10093,Wyong,1
+New South Wales,19494,No usual address (NSW),NA
+New South Wales,19797,Migratory - Offshore - Shipping (NSW),NA
+Victoria,20106,Albert Park (Southern Metropolitan),NA
+Victoria,20207,Altona (Western Metropolitan),NA
+Victoria,20302,Bass (Eastern Victoria),NA
+Victoria,20401,Bayswater (Eastern Metropolitan),NA
+Victoria,20508,Bellarine (Western Victoria),NA
+Victoria,20604,Benambra (Northern Victoria),3
+Victoria,20704,Bendigo East (Northern Victoria),NA
+Victoria,20804,Bendigo West (Northern Victoria),NA
+Victoria,20906,Bentleigh (Southern Metropolitan),NA
+Victoria,21001,Box Hill (Eastern Metropolitan),NA
+Victoria,21106,Brighton (Southern Metropolitan),NA
+Victoria,21203,Broadmeadows (Northern Metropolitan),NA
+Victoria,21303,Brunswick (Northern Metropolitan),NA
+Victoria,21401,Bulleen (Eastern Metropolitan),NA
+Victoria,21503,Bundoora (Northern Metropolitan),NA
+Victoria,21608,Buninyong (Western Victoria),NA
+Victoria,21706,Burwood (Southern Metropolitan),NA
+Victoria,21805,Carrum (South-Eastern Metropolitan),NA
+Victoria,21906,Caulfield (Southern Metropolitan),NA
+Victoria,22005,Clarinda (South-Eastern Metropolitan),NA
+Victoria,22105,Cranbourne (South-Eastern Metropolitan),NA
+Victoria,22201,Croydon (Eastern Metropolitan),NA
+Victoria,22305,Dandenong (South-Eastern Metropolitan),NA
+Victoria,22404,Eildon (Northern Victoria),NA
+Victoria,22501,Eltham (Eastern Metropolitan),NA
+Victoria,22607,Essendon (Western Metropolitan),NA
+Victoria,22704,Euroa (Northern Victoria),NA
+Victoria,22802,Evelyn (Eastern Victoria),NA
+Victoria,22901,Ferntree Gully (Eastern Metropolitan),NA
+Victoria,23007,Footscray (Western Metropolitan),NA
+Victoria,23101,Forest Hill (Eastern Metropolitan),NA
+Victoria,23205,Frankston (South-Eastern Metropolitan),NA
+Victoria,23308,Geelong (Western Victoria),NA
+Victoria,23402,Gembrook (Eastern Victoria),NA
+Victoria,23502,Gippsland East (Eastern Victoria),4
+Victoria,23602,Gippsland South (Eastern Victoria),NA
+Victoria,23702,Hastings (Eastern Victoria),NA
+Victoria,23806,Hawthorn (Southern Metropolitan),NA
+Victoria,23901,Ivanhoe (Eastern Metropolitan),NA
+Victoria,24006,Kew (Southern Metropolitan),NA
+Victoria,24105,Keysborough (South-Eastern Metropolitan),NA
+Victoria,24207,Kororoit (Western Metropolitan),NA
+Victoria,24308,Lara (Western Victoria),NA
+Victoria,24408,Lowan (Western Victoria),NA
+Victoria,24504,Macedon (Northern Victoria),NA
+Victoria,24606,Malvern (Southern Metropolitan),NA
+Victoria,24703,Melbourne (Northern Metropolitan),NA
+Victoria,24808,Melton (Western Victoria),NA
+Victoria,24904,Mildura (Northern Victoria),NA
+Victoria,25003,Mill Park (Northern Metropolitan),NA
+Victoria,25102,Monbulk (Eastern Victoria),NA
+Victoria,25205,Mordialloc (South-Eastern Metropolitan),NA
+Victoria,25302,Mornington (Eastern Victoria),NA
+Victoria,25402,Morwell (Eastern Victoria),NA
+Victoria,25501,Mount Waverley (Eastern Metropolitan),NA
+Victoria,25605,Mulgrave (South-Eastern Metropolitan),NA
+Victoria,25704,Murray Plains (Northern Victoria),NA
+Victoria,25802,Narracan (Eastern Victoria),NA
+Victoria,25905,Narre Warren North (South-Eastern Metropolitan),NA
+Victoria,26005,Narre Warren South (South-Eastern Metropolitan),NA
+Victoria,26102,Nepean (Eastern Victoria),NA
+Victoria,26207,Niddrie (Western Metropolitan),NA
+Victoria,26303,Northcote (Northern Metropolitan),NA
+Victoria,26406,Oakleigh (Southern Metropolitan),NA
+Victoria,26504,Ovens Valley (Northern Victoria),NA
+Victoria,26603,Pascoe Vale (Northern Metropolitan),NA
+Victoria,26708,Polwarth (Western Victoria),NA
+Victoria,26806,Prahran (Southern Metropolitan),NA
+Victoria,26903,Preston (Northern Metropolitan),NA
+Victoria,27003,Richmond (Northern Metropolitan),NA
+Victoria,27101,Ringwood (Eastern Metropolitan),NA
+Victoria,27208,Ripon (Western Victoria),NA
+Victoria,27305,Rowville (South-Eastern Metropolitan),NA
+Victoria,27406,Sandringham (Southern Metropolitan),NA
+Victoria,27504,Shepparton (Northern Victoria),NA
+Victoria,27608,South Barwon (Western Victoria),NA
+Victoria,27708,South-West Coast (Western Victoria),NA
+Victoria,27807,St Albans (Western Metropolitan),NA
+Victoria,27907,Sunbury (Western Metropolitan),NA
+Victoria,28007,Sydenham (Western Metropolitan),NA
+Victoria,28107,Tarneit (Western Metropolitan),NA
+Victoria,28203,Thomastown (Northern Metropolitan),NA
+Victoria,28301,Warrandyte (Eastern Metropolitan),NA
+Victoria,28408,Wendouree (Western Victoria),NA
+Victoria,28507,Werribee (Western Metropolitan),NA
+Victoria,28607,Williamstown (Western Metropolitan),NA
+Victoria,28704,Yan Yean (Northern Victoria),NA
+Victoria,28803,Yuroke (Northern Metropolitan),NA
+Victoria,29494,No usual address (Vic.),NA
+Victoria,29797,Migratory - Offshore - Shipping (Vic.),NA
+Queensland,30001,Algester,NA
+Queensland,30002,Aspley,NA
+Queensland,30003,Bancroft,NA
+Queensland,30004,Barron River,NA
+Queensland,30005,Bonney,NA
+Queensland,30006,Broadwater,NA
+Queensland,30007,Buderim,NA
+Queensland,30008,Bulimba,NA
+Queensland,30009,Bundaberg,NA
+Queensland,30010,Bundamba,NA
+Queensland,30011,Burdekin,NA
+Queensland,30012,Burleigh,NA
+Queensland,30013,Burnett,NA
+Queensland,30014,Cairns,NA
+Queensland,30015,Callide,NA
+Queensland,30016,Caloundra,NA
+Queensland,30017,Capalaba,NA
+Queensland,30018,Chatsworth,NA
+Queensland,30019,Clayfield,NA
+Queensland,30020,Condamine,NA
+Queensland,30021,Cook,NA
+Queensland,30022,Coomera,NA
+Queensland,30023,Cooper,NA
+Queensland,30024,Currumbin,NA
+Queensland,30025,Everton,NA
+Queensland,30026,Ferny Grove,NA
+Queensland,30027,Gaven,NA
+Queensland,30028,Gladstone,NA
+Queensland,30029,Glass House,NA
+Queensland,30030,Greenslopes,NA
+Queensland,30031,Gregory,NA
+Queensland,30032,Gympie,NA
+Queensland,30033,Hervey Bay,NA
+Queensland,30034,Hill,NA
+Queensland,30035,Hinchinbrook,NA
+Queensland,30036,Inala,NA
+Queensland,30037,Ipswich,NA
+Queensland,30038,Ipswich West,NA
+Queensland,30039,Jordan,NA
+Queensland,30040,Kawana,NA
+Queensland,30041,Keppel,NA
+Queensland,30042,Kurwongbah,NA
+Queensland,30043,Lockyer,NA
+Queensland,30044,Logan,NA
+Queensland,30045,Lytton,NA
+Queensland,30046,Macalister,NA
+Queensland,30047,Mackay,NA
+Queensland,30048,Maiwar,NA
+Queensland,30049,Mansfield,NA
+Queensland,30050,Maroochydore,NA
+Queensland,30051,Maryborough,NA
+Queensland,30052,McConnel,NA
+Queensland,30053,Mermaid Beach,NA
+Queensland,30054,Miller,NA
+Queensland,30055,Mirani,NA
+Queensland,30056,Moggill,NA
+Queensland,30057,Morayfield,NA
+Queensland,30058,Mount Ommaney,NA
+Queensland,30059,Mudgeeraba,NA
+Queensland,30060,Mulgrave,NA
+Queensland,30061,Mundingburra,NA
+Queensland,30062,Murrumba,NA
+Queensland,30063,Nanango,NA
+Queensland,30064,Nicklin,NA
+Queensland,30065,Ninderry,NA
+Queensland,30066,Noosa,NA
+Queensland,30067,Nudgee,NA
+Queensland,30068,Oodgeroo,NA
+Queensland,30069,Pine Rivers,NA
+Queensland,30070,Pumicestone,NA
+Queensland,30071,Redcliffe,NA
+Queensland,30072,Redlands,NA
+Queensland,30073,Rockhampton,NA
+Queensland,30074,Sandgate,NA
+Queensland,30075,Scenic Rim,1
+Queensland,30076,South Brisbane,NA
+Queensland,30077,Southern Downs,1
+Queensland,30078,Southport,NA
+Queensland,30079,Springwood,NA
+Queensland,30080,Stafford,NA
+Queensland,30081,Stretton,NA
+Queensland,30082,Surfers Paradise,NA
+Queensland,30083,Theodore,NA
+Queensland,30084,Thuringowa,NA
+Queensland,30085,Toohey,NA
+Queensland,30086,Toowoomba North,NA
+Queensland,30087,Toowoomba South,NA
+Queensland,30088,Townsville,NA
+Queensland,30089,Traeger,NA
+Queensland,30090,Warrego,NA
+Queensland,30091,Waterford,NA
+Queensland,30092,Whitsunday,NA
+Queensland,30093,Woodridge,NA
+Queensland,39494,No usual address (Qld),NA
+Queensland,39797,Migratory - Offshore - Shipping (Qld),NA
+South Australia,40001,Adelaide,NA
+South Australia,40002,Badcoe,NA
+South Australia,40003,Black,NA
+South Australia,40004,Bragg,NA
+South Australia,40005,Chaffey,NA
+South Australia,40006,Cheltenham,NA
+South Australia,40007,Colton,NA
+South Australia,40008,Croydon,NA
+South Australia,40009,Davenport,NA
+South Australia,40010,Dunstan,NA
+South Australia,40011,Elder,NA
+South Australia,40012,Elizabeth,NA
+South Australia,40013,Enfield,NA
+South Australia,40014,Finniss,NA
+South Australia,40015,Flinders,NA
+South Australia,40016,Florey,NA
+South Australia,40017,Frome,1
+South Australia,40018,Gibson,NA
+South Australia,40019,Giles,3
+South Australia,40020,Hammond,3
+South Australia,40021,Hartley,NA
+South Australia,40022,Heysen,NA
+South Australia,40023,Hurtle Vale,NA
+South Australia,40024,Kaurna,NA
+South Australia,40025,Kavel,1
+South Australia,40026,King,NA
+South Australia,40027,Lee,NA
+South Australia,40028,Light,1
+South Australia,40029,Mackillop,6
+South Australia,40030,Mawson,6
+South Australia,40031,Morialta,1
+South Australia,40032,Morphett,NA
+South Australia,40033,Mount Gambier,NA
+South Australia,40034,Narungga,2
+South Australia,40035,Newland,1
+South Australia,40036,Playford,NA
+South Australia,40037,Port Adelaide,NA
+South Australia,40038,Ramsay,NA
+South Australia,40039,Reynell,NA
+South Australia,40040,Schubert,NA
+South Australia,40041,Stuart (SA),NA
+South Australia,40042,Taylor,NA
+South Australia,40043,Torrens,NA
+South Australia,40044,Unley,NA
+South Australia,40045,Waite,NA
+South Australia,40046,West Torrens,NA
+South Australia,40047,Wright,NA
+South Australia,49494,No usual address (SA),NA
+South Australia,49797,Migratory - Offshore - Shipping (SA),NA
+Western Australia,50106,Albany (South West),NA
+Western Australia,50202,Armadale (East Metropolitan),NA
+Western Australia,50304,Balcatta (North Metropolitan),NA
+Western Australia,50405,Baldivis (South Metropolitan),NA
+Western Australia,50502,Bassendean (East Metropolitan),NA
+Western Australia,50605,Bateman (South Metropolitan),NA
+Western Australia,50702,Belmont (East Metropolitan),NA
+Western Australia,50805,Bicton (South Metropolitan),NA
+Western Australia,50906,Bunbury (South West),NA
+Western Australia,51004,Burns Beach (North Metropolitan),NA
+Western Australia,51104,Butler (North Metropolitan),NA
+Western Australia,51205,Cannington (South Metropolitan),NA
+Western Australia,51304,Carine (North Metropolitan),NA
+Western Australia,51401,Central Wheatbelt (Agricultural),NA
+Western Australia,51504,Churchlands (North Metropolitan),NA
+Western Australia,51605,Cockburn (South Metropolitan),NA
+Western Australia,51706,Collie-Preston (South West),NA
+Western Australia,51804,Cottesloe (North Metropolitan),NA
+Western Australia,51902,Darling Range (East Metropolitan),NA
+Western Australia,52006,Dawesville (South West),NA
+Western Australia,52102,Forrestfield (East Metropolitan),NA
+Western Australia,52205,Fremantle (South Metropolitan),NA
+Western Australia,52301,Geraldton (Agricultural),NA
+Western Australia,52404,Girrawheen (North Metropolitan),NA
+Western Australia,52504,Hillarys (North Metropolitan),NA
+Western Australia,52605,Jandakot (South Metropolitan),NA
+Western Australia,52704,Joondalup (North Metropolitan),NA
+Western Australia,52802,Kalamunda (East Metropolitan),NA
+Western Australia,52903,Kalgoorlie (Mining and Pastoral),NA
+Western Australia,53003,Kimberley (Mining and Pastoral),NA
+Western Australia,53104,Kingsley (North Metropolitan),NA
+Western Australia,53205,Kwinana (South Metropolitan),NA
+Western Australia,53306,Mandurah (South West),NA
+Western Australia,53402,Maylands (East Metropolitan),NA
+Western Australia,53502,Midland (East Metropolitan),NA
+Western Australia,53602,Mirrabooka (East Metropolitan),NA
+Western Australia,53701,Moore (Agricultural),NA
+Western Australia,53802,Morley (East Metropolitan),NA
+Western Australia,53902,Mount Lawley (East Metropolitan),NA
+Western Australia,54006,Murray-Wellington (South West),NA
+Western Australia,54104,Nedlands (North Metropolitan),NA
+Western Australia,54203,North West Central (Mining and Pastoral),NA
+Western Australia,54304,Perth (North Metropolitan),NA
+Western Australia,54403,Pilbara (Mining and Pastoral),NA
+Western Australia,54505,Riverton (South Metropolitan),NA
+Western Australia,54605,Rockingham (South Metropolitan),NA
+Western Australia,54701,Roe (Agricultural),NA
+Western Australia,54804,Scarborough (North Metropolitan),NA
+Western Australia,54905,South Perth (South Metropolitan),NA
+Western Australia,55005,Southern River (South Metropolitan),NA
+Western Australia,55102,Swan Hills (East Metropolitan),NA
+Western Australia,55202,Thornlie (East Metropolitan),NA
+Western Australia,55306,Vasse (South West),NA
+Western Australia,55405,Victoria Park (South Metropolitan),NA
+Western Australia,55504,Wanneroo (North Metropolitan),NA
+Western Australia,55605,Warnbro (South Metropolitan),NA
+Western Australia,55706,Warren-Blackwood (South West),NA
+Western Australia,55802,West Swan (East Metropolitan),NA
+Western Australia,55905,Willagee (South Metropolitan),NA
+Western Australia,59494,No usual address (WA),NA
+Western Australia,59797,Migratory - Offshore - Shipping (WA),NA
+Tasmania,60105,Bass (Launceston),NA
+Tasmania,60106,Bass (McIntyre),1
+Tasmania,60113,Bass (Rosevears),NA
+Tasmania,60115,Bass (Windermere),NA
+Tasmania,60207,Braddon (Mersey),NA
+Tasmania,60208,Braddon (Montgomery),NA
+Tasmania,60209,Braddon (Murchison),1
+Tasmania,60301,Clark (Derwent),NA
+Tasmania,60302,Clark (Elwick),1
+Tasmania,60303,Clark (Hobart),NA
+Tasmania,60310,Clark (Nelson),NA
+Tasmania,60404,Franklin (Huon),NA
+Tasmania,60410,Franklin (Nelson),NA
+Tasmania,60411,Franklin (Pembroke),NA
+Tasmania,60414,Franklin (Rumney),NA
+Tasmania,60501,Lyons (Derwent),5
+Tasmania,60505,Lyons (Launceston),NA
+Tasmania,60506,Lyons (McIntyre),3
+Tasmania,60508,Lyons (Montgomery),NA
+Tasmania,60512,Lyons (Prosser),2
+Tasmania,60514,Lyons (Rumney),NA
+Tasmania,69494,No usual address (Tas.),NA
+Tasmania,69797,Migratory - Offshore - Shipping (Tas.),NA
+Northern Territory,70001,Arafura,NA
+Northern Territory,70002,Araluen,NA
+Northern Territory,70003,Arnhem,NA
+Northern Territory,70004,Barkly,NA
+Northern Territory,70005,Blain,NA
+Northern Territory,70006,Braitling,NA
+Northern Territory,70007,Brennan,NA
+Northern Territory,70008,Casuarina,NA
+Northern Territory,70009,Daly,NA
+Northern Territory,70010,Drysdale,NA
+Northern Territory,70011,Fannie Bay,NA
+Northern Territory,70012,Fong Lim,NA
+Northern Territory,70013,Goyder,NA
+Northern Territory,70014,Johnston,NA
+Northern Territory,70015,Karama,NA
+Northern Territory,70016,Katherine,NA
+Northern Territory,70017,Namatjira,NA
+Northern Territory,70018,Nelson,NA
+Northern Territory,70019,Nhulunbuy,NA
+Northern Territory,70020,Nightcliff,NA
+Northern Territory,70021,Port Darwin,NA
+Northern Territory,70022,Sanderson,NA
+Northern Territory,70023,Spillett,NA
+Northern Territory,70024,Stuart (NT),NA
+Northern Territory,70025,Wanguri,NA
+Northern Territory,79494,No usual address (NT),NA
+Northern Territory,79797,Migratory - Offshore - Shipping (NT),NA
+Australian Capital Territory,80001,Brindabella,2
+Australian Capital Territory,80002,Ginninderra,NA
+Australian Capital Territory,80003,Kurrajong,NA
+Australian Capital Territory,80004,Murrumbidgee,NA
+Australian Capital Territory,80005,Yerrabi,NA
+Australian Capital Territory,89494,No usual address (ACT),NA
+Australian Capital Territory,89797,Migratory - Offshore - Shipping (ACT),NA
+NA,99191,Unclassified (OT),NA
+NA,99494,No usual address (OT),NA
+NA,99797,Migratory - Offshore - Shipping (OT),NA
