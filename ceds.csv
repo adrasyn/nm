@@ -1,0 +1,170 @@
+state,ced_code_2018,ced_name_2018,incident_count
+New South Wales,101,Banks,NA
+New South Wales,102,Barton,NA
+New South Wales,103,Bennelong,NA
+New South Wales,104,Berowra,1
+New South Wales,105,Blaxland,NA
+New South Wales,106,Bradfield,NA
+New South Wales,107,Calare,9
+New South Wales,108,Chifley,NA
+New South Wales,109,Cook,NA
+New South Wales,110,Cowper,5
+New South Wales,111,Cunningham,NA
+New South Wales,112,Dobell,1
+New South Wales,113,Eden-Monaro,21
+New South Wales,114,Farrer,1
+New South Wales,115,Fowler,NA
+New South Wales,116,Gilmore,6
+New South Wales,117,Grayndler,NA
+New South Wales,118,Greenway,NA
+New South Wales,119,Hughes,1
+New South Wales,120,Hume,7
+New South Wales,121,Hunter,10
+New South Wales,122,Kingsford Smith,NA
+New South Wales,123,Lindsay,NA
+New South Wales,124,Lyne,15
+New South Wales,125,Macarthur,NA
+New South Wales,126,Mackellar,NA
+New South Wales,127,Macquarie,8
+New South Wales,128,McMahon,NA
+New South Wales,129,Mitchell,NA
+New South Wales,130,New England,33
+New South Wales,131,Newcastle,NA
+New South Wales,132,North Sydney,NA
+New South Wales,133,Page,7
+New South Wales,134,Parkes,4
+New South Wales,135,Parramatta,NA
+New South Wales,136,Paterson,NA
+New South Wales,137,Reid,NA
+New South Wales,138,Richmond,1
+New South Wales,139,Riverina,1
+New South Wales,140,Robertson,2
+New South Wales,141,Shortland,1
+New South Wales,142,Sydney,NA
+New South Wales,143,Warringah,NA
+New South Wales,144,Watson,NA
+New South Wales,145,Wentworth,NA
+New South Wales,146,Werriwa,NA
+New South Wales,147,Whitlam,2
+New South Wales,194,No usual address (NSW),NA
+New South Wales,197,Migratory - Offshore - Shipping (NSW),NA
+Victoria,201,Aston,NA
+Victoria,202,Ballarat,NA
+Victoria,203,Bendigo,NA
+Victoria,204,Bruce,NA
+Victoria,205,Calwell,NA
+Victoria,206,Casey,NA
+Victoria,207,Chisholm,NA
+Victoria,208,Cooper,NA
+Victoria,209,Corangamite,NA
+Victoria,210,Corio,NA
+Victoria,211,Deakin,NA
+Victoria,212,Dunkley,NA
+Victoria,213,Flinders,NA
+Victoria,214,Fraser,NA
+Victoria,215,Gellibrand,NA
+Victoria,216,Gippsland,4
+Victoria,217,Goldstein,NA
+Victoria,218,Gorton,NA
+Victoria,219,Higgins,NA
+Victoria,220,Holt,NA
+Victoria,221,Hotham,NA
+Victoria,222,Indi,3
+Victoria,223,Isaacs,NA
+Victoria,224,Jagajaga,NA
+Victoria,225,Kooyong,NA
+Victoria,226,La Trobe,NA
+Victoria,227,Lalor,NA
+Victoria,228,Macnamara,NA
+Victoria,229,Mallee,NA
+Victoria,230,Maribyrnong,NA
+Victoria,231,McEwen,NA
+Victoria,232,Melbourne,NA
+Victoria,233,Menzies,NA
+Victoria,234,Monash,NA
+Victoria,235,Nicholls,NA
+Victoria,236,Scullin,NA
+Victoria,237,Wannon,NA
+Victoria,238,Wills,NA
+Victoria,294,No usual address (Vic.),NA
+Victoria,297,Migratory - Offshore - Shipping (Vic.),NA
+Queensland,301,Blair,NA
+Queensland,302,Bonner,NA
+Queensland,303,Bowman,NA
+Queensland,304,Brisbane,NA
+Queensland,305,Capricornia,NA
+Queensland,306,Dawson,NA
+Queensland,307,Dickson,NA
+Queensland,308,Fadden,NA
+Queensland,309,Fairfax,NA
+Queensland,310,Fisher,NA
+Queensland,311,Flynn,NA
+Queensland,312,Forde,NA
+Queensland,313,Griffith,NA
+Queensland,314,Groom,NA
+Queensland,315,Herbert,NA
+Queensland,316,Hinkler,NA
+Queensland,317,Kennedy,NA
+Queensland,318,Leichhardt,NA
+Queensland,319,Lilley,NA
+Queensland,320,Longman,NA
+Queensland,321,Maranoa,1
+Queensland,322,McPherson,NA
+Queensland,323,Moncrieff,NA
+Queensland,324,Moreton,NA
+Queensland,325,Oxley,NA
+Queensland,326,Petrie,NA
+Queensland,327,Rankin,NA
+Queensland,328,Ryan,NA
+Queensland,329,Wide Bay,NA
+Queensland,330,Wright,1
+Queensland,394,No usual address (Qld),NA
+Queensland,397,Migratory - Offshore - Shipping (Qld),NA
+South Australia,401,Adelaide,NA
+South Australia,402,Barker,8
+South Australia,403,Boothby,NA
+South Australia,404,Grey,6
+South Australia,405,Hindmarsh,NA
+South Australia,406,Kingston,NA
+South Australia,407,Makin,NA
+South Australia,408,Mayo,8
+South Australia,409,Spence,1
+South Australia,410,Sturt,NA
+South Australia,494,No usual address (SA),NA
+South Australia,497,Migratory - Offshore - Shipping (SA),NA
+Western Australia,501,Brand,NA
+Western Australia,502,Burt,NA
+Western Australia,503,Canning,NA
+Western Australia,504,Cowan,NA
+Western Australia,505,Curtin,NA
+Western Australia,506,Durack,NA
+Western Australia,507,Forrest,NA
+Western Australia,508,Fremantle,NA
+Western Australia,509,Hasluck,NA
+Western Australia,510,Moore,NA
+Western Australia,511,O'Connor,NA
+Western Australia,512,Pearce,NA
+Western Australia,513,Perth,NA
+Western Australia,514,Stirling,NA
+Western Australia,515,Swan,NA
+Western Australia,516,Tangney,NA
+Western Australia,594,No usual address (WA),NA
+Western Australia,597,Migratory - Offshore - Shipping (WA),NA
+Tasmania,601,Bass,1
+Tasmania,602,Braddon,1
+Tasmania,603,Clark,1
+Tasmania,604,Franklin,NA
+Tasmania,605,Lyons,9
+Tasmania,694,No usual address (Tas.),NA
+Tasmania,697,Migratory - Offshore - Shipping (Tas.),NA
+Northern Territory,701,Lingiari,NA
+Northern Territory,702,Solomon,NA
+Northern Territory,794,No usual address (NT),NA
+Northern Territory,797,Migratory - Offshore - Shipping (NT),NA
+Australian Capital Territory,801,Bean,2
+Australian Capital Territory,802,Canberra,NA
+Australian Capital Territory,803,Fenner,NA
+Australian Capital Territory,894,No usual address (ACT),NA
+Australian Capital Territory,897,Migratory - Offshore - Shipping (ACT),NA
+NA,994,No usual address (OT),NA
+NA,997,Migratory - Offshore - Shipping (OT),NA
